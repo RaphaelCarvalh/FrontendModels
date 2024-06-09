@@ -2,18 +2,18 @@
 
 Bem-vindo ao meu portfólio digital! Aqui estão cinco modelos de sites que eu desenvolvi:
 
-**1. [QR Code](https://raphaelcarvalh.github.io/QrCodePage/):**
-Um site simples para redirecionar para sites parceiros ou informações básicas 📱
+**1. [Home Page](https://raphaelcarvalh.github.io/QrCodePage/):**
+Uma page para recepcionar os usuarios para sites parceiros ou para direcionar usuários para o login📱
 
-**2. [Blog Card](https://raphaelcarvalh.github.io/BlogCard/):**
-Um Card é o elemento base para construções mais complexas em sites, a partir dele podemos importar uma série de atributos mudando somente o conteúdo, reaproveitando a estrutura original 🃏
+**2. [LandPage](https://raphaelcarvalh.github.io/BlogCard/):**
+Precisa fazer uma divulgação ou página com informações básicas, uma land page pode ser sua solução.🃏
 
-**3. [Links Profile](https://raphaelcarvalh.github.io/SocialLinksProfile/):**
-Precisando de um redirecionador? Um modelo de estrutura baseado no linktree! 🌐
+**3. [SupportPage](https://raphaelcarvalh.github.io/SocialLinksProfile/):**
+Precisando de um meio de contato para seus clientes, crie um espaço onde esles possam enviar mensagem ou dados para um cadastro.🌐
 
-**4. [Site de receitas](https://raphaelcarvalh.github.io/RecipePage/):**
-Que tal mostrar ao mundo suas melhores receitas e compartilhar esse segredo! 🍳
+**4. [DashBoardFull](https://raphaelcarvalh.github.io/RecipePage/):**
+Que tal controlar e acessar seus dados através de uma única página, super estilizada e personalizável! 🍳
 
-Cada um desses modelos traz conceitos para criar sites funcionais e atraentes. Esse conteúdo vai sendo atualizado e melhorado conforme vou gerando novos desafios.
+Cada um desses modelos traz conceitos para criar pages funcionais e atraentes. Esse conteúdo vai sendo atualizado e melhorado conforme vou evoluindo.
 
 Até a próxima! 🚀
