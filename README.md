@@ -9,7 +9,7 @@ Uma page para recepcionar os usuarios para sites parceiros ou para direcionar us
 Precisa fazer uma divulgação ou página com informações básicas, uma land page pode ser sua solução.🃏
 
 **3. [SupportPage](https://raphaelcarvalh.github.io/SocialLinksProfile/):**
-Crie um espaço parqa que seus clientes possam enviar mensagem ou dados para um cadastro.🌐
+Crie um espaço para que seus clientes possam enviar mensagem ou dados para um cadastro.🌐
 
 **4. [DashBoardFull](https://raphaelcarvalh.github.io/RecipePage/):**
 Que tal controlar e acessar seus dados através de uma única página, super estilizada e personalizável! 🍳
