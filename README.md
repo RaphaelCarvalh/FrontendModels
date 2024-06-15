@@ -14,6 +14,7 @@ Crie um espaço para que seus clientes possam enviar mensagem ou dados para um c
 **4. [DashBoardFull](https://raphaelcarvalh.github.io/RecipePage/):**
 Que tal controlar e acessar seus dados através de uma única página, super estilizada e personalizável! 🍳
 
-Cada um desses modelos traz conceitos para criar pages funcionais e atraentes. Esse conteúdo vai sendo atualizado e melhorado conforme vou evoluindo.
+**5. [LoginPage + MFA](https://raphaelcarvalh.github.io/RecipePage/):**
+Autenticação com duplo fator de segurança, trazendo mais credibilidade para sua aplicação e dificultando a vida de invasores.
 
 Até a próxima! 🚀
