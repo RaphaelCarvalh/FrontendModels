@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio digital! Aqui estão cinco modelos de sites que eu d
 Uma page para recepcionar os usuarios para sites parceiros ou para direcionar usuários para o login📱
 
 **2. [LandPage](https://raphaelcarvalh.github.io/LandPage-/#/landing)-**
-**[Repo](https://github.com/RaphaelCarvalh/LandPage-):**Precisa fazer uma divulgação dos seus serviços ou página de divulgação de um produto com informações básicas, uma landpage pode ser sua solução.🃏
+**[Repo](https://github.com/RaphaelCarvalh/LandPage-):** Precisa fazer uma divulgação dos seus serviços ou página de divulgação de um produto com informações básicas, uma landpage pode ser sua solução.🃏
 
 **3. [SupportPage](https://raphaelcarvalh.github.io/SocialLinksProfile/):**
 Crie um espaço para que seus clientes possam enviar mensagem ou dados para um cadastro.🌐
