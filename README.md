@@ -13,7 +13,7 @@ Uma page para recepcionar os usuarios para sites parceiros ou para direcionar us
 Crie um espaço para que seus clientes possam enviar mensagem ou dados para um cadastro.🌐
 
 **4. [DashBoardFull](https://raphaelcarvalh.github.io/DashBoard-/#/dashboard)-**
-**[Repo](https://github.com/RaphaelCarvalh/DashBoard-):**Que tal controlar e acessar seus dados através de uma única página, super estilizada e personalizável! 🍳
+**[Repo](https://github.com/RaphaelCarvalh/DashBoard-):** Que tal controlar e acessar seus dados através de uma única página, super estilizada e personalizável! 🍳
 
 **5. [LoginPage + MFA](https://raphaelcarvalh.github.io/RecipePage/):**
 Autenticação com duplo fator de segurança, trazendo mais credibilidade para sua aplicação e dificultando a vida de invasores.
