@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio digital! Aqui estão cinco modelos de sites que eu desenvolvi:
 
-**1. [Home Page](https://raphaelcarvalh.github.io/HomePage-/#/home):**
+**1. [Home Page](https://raphaelcarvalh.github.io/HomePage-/#/home) - **
 **[Repo](https://github.com/RaphaelCarvalh/HomePage-):**
 Uma page para recepcionar os usuarios para sites parceiros ou para direcionar usuários para o login📱
 
